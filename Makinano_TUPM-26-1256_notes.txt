@@ -1,0 +1,5 @@
+Student: Makinano
+Student ID: TUPM-26-1256
+Seed digit : 6
+ID Sum: 22
+Verification value: 182

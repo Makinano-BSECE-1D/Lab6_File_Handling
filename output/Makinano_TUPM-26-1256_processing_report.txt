@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+===============================
+Last Name: Makinano
+Student ID: TUPM-26-1256
+Seed Digit: 6
+ID Sum: 22
+Verification Value: 182
+Dataset Sample Size: 72
+Valid Records: 72
+Average Global Active Power: 4.044
+JSON File: Makinano_TUPM-26-1256_record.json
+Backup File: Makinano_TUPM-26-1256_record.csv
