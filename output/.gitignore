@@ -3,8 +3,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/
-weblog.csv
-user_behavior.csv
-Global_Cybersecurity_Threats_2015-2024.csv
+Lab6_File_Handling_Additional_Exercises/weblog.csv
+Lab6_File_Handling_Additional_Exercises/user_behavior_dataset.csv
 user_behavior_dataset.csv
-household_power_consumption.txt
+weblog.csv
+Global_Cybersecurity_Threats_2015-2024.csv
