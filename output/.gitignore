@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+weblog.csv
+user_behavior.csv
+Global_Cybersecurity_Threats_2015-2024.csv
+user_behavior_dataset.csv
+household_power_consumption.txt

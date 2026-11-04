@@ -1,0 +1,62 @@
+[
+    {
+        "Country": "USA",
+        "Year": "2021",
+        "Attack Type": "DDoS",
+        "Target Industry": "Telecommunications",
+        "Financial Loss (in Million $)": "99.81",
+        "Number of Affected Users": "460842",
+        "Attack Source": "Unknown",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "59"
+    },
+    {
+        "Country": "France",
+        "Year": "2021",
+        "Attack Type": "Ransomware",
+        "Target Industry": "IT",
+        "Financial Loss (in Million $)": "99.77",
+        "Number of Affected Users": "533151",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "43"
+    },
+    {
+        "Country": "France",
+        "Year": "2021",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "Government",
+        "Financial Loss (in Million $)": "98.76",
+        "Number of Affected Users": "904598",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "11"
+    },
+    {
+        "Country": "China",
+        "Year": "2021",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "IT",
+        "Financial Loss (in Million $)": "98.57",
+        "Number of Affected Users": "430792",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "9"
+    },
+    {
+        "Country": "India",
+        "Year": "2021",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "IT",
+        "Financial Loss (in Million $)": "98.09",
+        "Number of Affected Users": "826976",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "VPN",
+        "Incident Resolution Time (in Hours)": "57"
+    }
+]
